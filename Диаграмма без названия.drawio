@@ -22,7 +22,7 @@
         <mxCell id="1C8pl0P5ky_lyWL19Vse-7" value="local&lt;br&gt;broker" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="270" y="140" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1C8pl0P5ky_lyWL19Vse-8" value="Kafka&lt;br&gt;Gateway" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="1C8pl0P5ky_lyWL19Vse-8" value="Kafka&lt;br&gt;Bridge" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="430" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1C8pl0P5ky_lyWL19Vse-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1C8pl0P5ky_lyWL19Vse-7">
@@ -47,7 +47,7 @@
         <mxCell id="1C8pl0P5ky_lyWL19Vse-37" value="Global broker&lt;br&gt;Rqm" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="680" y="200" width="80" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="1C8pl0P5ky_lyWL19Vse-39" value="Rmq&lt;br&gt;Gateway" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="1C8pl0P5ky_lyWL19Vse-39" value="Rmq&lt;br&gt;Bridge" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="430" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1C8pl0P5ky_lyWL19Vse-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1C8pl0P5ky_lyWL19Vse-39" target="1C8pl0P5ky_lyWL19Vse-37">
@@ -83,7 +83,7 @@
         <mxCell id="1C8pl0P5ky_lyWL19Vse-49" value="local&lt;br&gt;broker" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="270" y="520" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1C8pl0P5ky_lyWL19Vse-50" value="Broker&lt;br&gt;Gateway" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="1C8pl0P5ky_lyWL19Vse-50" value="Broker&lt;br&gt;Bridge" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="430" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1C8pl0P5ky_lyWL19Vse-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1C8pl0P5ky_lyWL19Vse-49">
@@ -135,7 +135,7 @@
         <mxCell id="1C8pl0P5ky_lyWL19Vse-66" value="Global broker&lt;br&gt;Kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="680" y="830" width="80" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="1C8pl0P5ky_lyWL19Vse-68" value="Broker&lt;br&gt;Gateway" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="1C8pl0P5ky_lyWL19Vse-68" value="Broker&lt;br&gt;Bridge" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410" y="880" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1C8pl0P5ky_lyWL19Vse-70" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.022;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.953;exitY=0.365;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="1C8pl0P5ky_lyWL19Vse-68" source="1C8pl0P5ky_lyWL19Vse-64">
